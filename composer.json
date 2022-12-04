@@ -1,0 +1,15 @@
+{
+    "name": "Vmo/pattern-strategy",
+    "autoload": {
+        "psr-4": {
+            "Vmo\\PatternStrategy\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "valbtlec",
+            "email": "34799033+valbtlec@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}
